@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f0569f51-921b-494b-8290-bca5d919a1ee" name="默认的" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01_first_demo/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/01_first_demo/main.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,7 +17,7 @@
       </list>
     </option>
   </component>
-  <component name="GOROOT" url="file:///usr/local/Cellar/go/1.15/libexec" />
+  <component name="GOROOT" path="C:\Go" />
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -39,7 +39,9 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="go.import.settings.migrated" value="true" />
-    <property name="last_opened_file_path" value="$USER_HOME$" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="go.vendoring.notification.had.been.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
   <component name="RunManager" selected="Go 构建.go build Iris_Demo/01_first_demo">
@@ -79,5 +81,23 @@
         <entry key="GOPROXY" value="https://goproxy.cn,direct" />
       </map>
     </environment>
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1074" height="282" key="GridCell.Tab.0.bottom" timestamp="1607476348051">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1074" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1607476348051" />
+    <state width="1074" height="282" key="GridCell.Tab.0.center" timestamp="1607476348050">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1074" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1607476348050" />
+    <state width="1074" height="282" key="GridCell.Tab.0.left" timestamp="1607476348049">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1074" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1607476348049" />
+    <state width="1074" height="282" key="GridCell.Tab.0.right" timestamp="1607476348050">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1074" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1607476348050" />
   </component>
 </project>
