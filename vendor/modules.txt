@@ -22,6 +22,8 @@ github.com/chris-ramon/douceur/parser
 # github.com/eknkc/amber v0.0.0-20171010120322-cdade1c07385
 github.com/eknkc/amber
 github.com/eknkc/amber/parser
+# github.com/etcd-io/bbolt v1.3.3
+github.com/etcd-io/bbolt
 # github.com/fasthttp-contrib/websocket v0.0.0-20160511215533-1f3b11f56072
 ## explicit
 # github.com/fatih/structs v1.1.0
@@ -94,6 +96,8 @@ github.com/kataras/iris/v12/macro/interpreter/token
 github.com/kataras/iris/v12/middleware/logger
 github.com/kataras/iris/v12/middleware/recover
 github.com/kataras/iris/v12/mvc
+github.com/kataras/iris/v12/sessions
+github.com/kataras/iris/v12/sessions/sessiondb/boltdb
 github.com/kataras/iris/v12/view
 github.com/kataras/iris/v12/websocket
 # github.com/kataras/neffos v0.0.14
